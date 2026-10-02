@@ -1,10 +1,10 @@
-name: hummingbird
-display_name: Hummingbird
+name: mytheme
+display_name: My Theme
 version: 2.0.0
 author:
-  name: "PrestaShop Team and Contributors"
-  email: "pub@prestashop.com"
-  url: "https://www.prestashop-project.org/"
+  name: "Adriana Weidlichová"
+  email: "amcmcars@gmail.com"
+  url: "https://github.com/Saliva-sys/mytheme"
 
 meta:
   compatibility:
